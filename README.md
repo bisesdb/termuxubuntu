@@ -1,1 +1,1 @@
-# termuxubuntu
+Ubuntu code for termux
